@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'SLR'
+author 'Randolio'
 
 shared_scripts {
     '@ox_lib/init.lua', 
